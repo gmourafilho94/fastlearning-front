@@ -1,5 +1,5 @@
 function PostMan() {
- return (
+  return (
     <div>
       <article>
         <h2>This is inside article</h2>
