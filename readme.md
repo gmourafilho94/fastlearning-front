@@ -1,25 +1,25 @@
 # Education is Human Property
 
-Be educated should not be a constant pain for several people across the globe. Every human must and should've be educated with fundamental knowledge.
+**Educação é uma propriedade humana**. Sim, todos deveriam ter acesso à educação, mas educação de qualidade e com metodologia apropriada para sua finalidade educativa. Sim, não estamos interessados sobre o que precisa ser aprendido, ou se a finalidade é genuinamente necessária para uma grade curricular ou se tornar uma aluno melhor na sua escola, mas sim achar à sua melhor maneira de aprender algo a qualquer tempo. 
 
-Therefore, Fast Learning is meant for those who is willing to understand deeper this world specially through education.
+Por isso, vamos utilizar duas personalizações que nos foi possibilitada: 
+
+> 1. **IA será responsável pela personalização** da sua educação baseada em metodologias já conhecidas, porém possibilitada para criar à sua necessidade. Alguns prompts + usabilidade do usuário para ser possível visualizar
+> 2. **Ser um local de compartilhamento do conhecimento** de cada usuário, com features que ajudem se conectar com pessoas que possuem a mesma maneira de aprender conhecimento e descobrir que a jornada na realidade é muito mais fácil quando se tem alguém para compartilhar.
+> 
 
 ## Education must be acessible to all
 
-Fast Learning will not, should not be private, but accessible to everyone with a simple connected device. It must only require time and comprehensiveness from it's users.
-
-Thus it's impossible to survive without any funds, Fast Learning must independently receive donates so it could maintain it's necessaries bills. Billing will always be public and accessible to every user.
+**Learning Fast nunca vai ser pago**. A ideia de acessibilidade é sobre a possibilidade de ser utilizada por qualquer um com o mínimo possível de conectividade. Por isso, os modelos que serão utilizados serão os free tiers de cada "provedor"  (Google, OpenAI etc). Contudo, caso o usuário queira, poderá utilizar sua própria key.
 
 ## Educate without AI misuse.
 
-Although there're major cases where AI is not meant for proper education, Fast Learning encourages using this tool to enhance better users' education's paths.
+**IA não é muleta.** Nunca será possível a IA desenhar caminhos que afetem o conhecimento necessário a ser gerado na sua cabeça. Os modelos serão utilizados para personalização da metodologia de aprendizagem, não para gerar conteúdos e entregar respostas, mas sim para poder auxiliar na construção do seu conhecimento para a finalidade definida.
 
-Fast Learning will use LLMs, Predictive AIs and other models to empower users' capabilities to fulfill theirs needs in proper education. None should be used in terms of substitute teachers, tutors or any kind of educators so ever.
 
-These tools are meant to enhance education by humans not replace them. Therefore LLMs should always be attached to guided non-connected human education experiences.
-
-### Roadmap
+## Roadmap
 
 ```
-
-```
+ - [] 'Home' page
+ - [] 'Integração LinkedIn'
+``` 
